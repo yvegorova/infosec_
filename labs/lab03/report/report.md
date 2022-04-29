@@ -1,7 +1,7 @@
 ---
 ## Front matter
 title: "Отчёт по лабораторной работе №3 "
-subtitle: "Дисциплина: Операционные системы"
+subtitle: "дисциплина: Операционные системы"
 author: "Егорова Юлия Владимировна"
 
 ## Generic otions
@@ -16,7 +16,6 @@ csl: pandoc/csl/gost-r-7-0-5-2008-numeric.csl
 toc: true # Table of contents
 toc-depth: 2
 lof: true # List of figures
-lot: true # List of tables
 fontsize: 12pt
 linestretch: 1.5
 papersize: a4
@@ -56,7 +55,6 @@ figureTitle: "Рис."
 tableTitle: "Таблица"
 listingTitle: "Листинг"
 lofTitle: "Список иллюстраций"
-lotTitle: "Список таблиц"
 lolTitle: "Листинги"
 ## Misc options
 indent: true
