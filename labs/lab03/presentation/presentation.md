@@ -23,11 +23,9 @@ section-titles: true
 ---
 
 # Цель работы
-
 - Научиться оформлять отчёты с помощью легковесного языка разметки Markdown.
 
 # Базовые сведения о Markdown
-
 - Создание заголовков
 
 - Шрифт 
@@ -41,11 +39,9 @@ section-titles: true
 - Команды, используемые для ввода кода
 
 # Обработка файлов в формате Markdown
-
 Для обработки файлов в формате Markdown будем использовать Pandoc https://pandoc.org/. Конкретно, нам понадобится программа pandoc , pandoc-citeproc https://github.com/jgm/pandoc/releases, pandoc-crossref https://github.com/lierdakil/pandoc-crossref/releases.
 
 # Выполнение лабораторной работы
-
 - С самого начала я изменила заголовок, подзаголовок и автора работы.
 
 - Затем цель работы и задание.
