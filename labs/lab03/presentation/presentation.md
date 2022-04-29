@@ -1,13 +1,13 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Операционные системы
+title: Лабораторная работа №3
 author: |
-Егорова Юлия Владимировна	
+		Егорова Юлия Владимировна	
 institute: |
 	\inst{1}RUDN University, Moscow, Russian Federation
 	
-date: NEC--2022, 29 April, Moscow, Russian Federation
+date: NEC--2022, 29 April 
 
 ## Formatting
 toc: false
