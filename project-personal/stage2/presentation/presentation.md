@@ -21,7 +21,7 @@ aspectratio: 43
 section-titles: true
 ---
 
-## Лабораторная работа №6
+## Второй этап проекта
 
 ## Цель работы
 
@@ -45,7 +45,7 @@ section-titles: true
 
 Непрерывная интеграция и непрерывное развертывание (CI/CD).
 
-## Выполнение лабораторной работы
+## Выполнение работы
 
 1. С самого начала я зашла в папку work-blog-content-authors-admin:
 
@@ -55,6 +55,8 @@ section-titles: true
 
 ![Изменение информации. ](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/project-personal/stage2/report/image/2.jpg){ #fig:002 width=70% }
 
+## Выполнение работы
+
 3. Далее я загрузила свою фотографию и получила следующий вид своего сайта:
 
 ![Добавление фотографии и внешний вид сайта. ](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/project-personal/stage2/report/image/3.jpg){ #fig:003 width=70% }
@@ -62,6 +64,8 @@ section-titles: true
 4. После этого я сделала пост по прошедшей неделе, где в подробностях описала, как проходят мои будни:
 
 ![Пост по прошедшей неделе. ](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/project-personal/stage2/report/image/4.jpg){ #fig:004 width=70% }
+
+## Выполнение работы
 
 5. В конце я добавила пост на тему: "Управление версиями. Git".
 
