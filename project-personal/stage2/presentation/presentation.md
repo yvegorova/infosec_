@@ -61,6 +61,8 @@ section-titles: true
 
 ![Добавление фотографии и внешний вид сайта. ](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/project-personal/stage2/report/image/3.jpg){ #fig:003 width=70% }
 
+## Выполнение лабораторной работы
+
 4. После этого я сделала пост по прошедшей неделе, где в подробностях описала, как проходят мои будни:
 
 ![Пост по прошедшей неделе. ](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/project-personal/stage2/report/image/4.jpg){ #fig:004 width=70% }
