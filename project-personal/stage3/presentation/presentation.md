@@ -1,12 +1,10 @@
 ---
 ## Front matter
 lang: ru-RU
-
-author: |
-         Егорова Юлия Владимировна
+title: 3 Этап проекта 
+author: Егорова Юлия Владимировна
 	
-institute: |
-	\inst{1}RUDN University, Moscow, Russian Federation
+institute: RUDN University, Moscow, Russian Federation
 	
 ## Formatting
 toc: false
