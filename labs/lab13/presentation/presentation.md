@@ -69,53 +69,61 @@ section-titles: true
 
 ## Проверка
 
-![Вывод содержимого. ](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab12/report/image/7.jpg){ #fig:008 width=70% }
+![Вывод компиляции. ](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/18.jpg){ #fig:008 width=70% }
+
+## Проверка
+
+![Вывод компиляции. ](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/19.jpg){ #fig:009 width=70% }
+
+## Проверка
+
+![Вывод компиляции. ](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/20.jpg){ #fig:010 width=70% }
 
 ## Создание файла и его заполнение
 
 4)Создание и заполнение содержимого Makefile:
 
-![Создание файла.](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/8.jpg){ #fig:009 width=70% }
+![Создание файла.](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/8.jpg){ #fig:011 width=70% }
 
 ## Исправление файла
 
 5)Исправила этот файл:
 
-![Исправление файла.](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/9.jpg){ #fig:010 width=70% }
+![Исправление файла.](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/9.jpg){ #fig:012 width=70% }
 
 ## Проверка работы калькулятора
 
 6)С помощью gdb выполнила отладку программы calcul (перед использованием gdb исправила Makefile), а затем запустила отладчик GDB, загрузив в него программу для отладки:
 
-![Комаданда gdb ./calcul.](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/10.jpg){ #fig:011 width=70% }
+![Комаданда gdb ./calcul.](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/10.jpg){ #fig:013 width=70% }
 
 ## Проверка работы калькулятора
 
 Нажала run, ввела число 7, выбрала операцию сложения, прибавила 7 и получила верный ответ 14:
 
-![Проверка работы.](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/11.jpg){ #fig:012 width=70% }
+![Проверка работы.](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/11.jpg){ #fig:014 width=70% }
 
 ## Проверка работы калькулятора
 
 Затем последовательно ввела команды list, list 12,15, list calculate.c:20,29, list calculate.c:20,27, break 21, info breakpoints, backtrace, print Numeral, display Numeral, info breakpoints и delete 1:
 
-![Команда list.](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/12.jpg){ #fig:013 width=70% }
+![Команда list.](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/12.jpg){ #fig:015 width=70% }
 
 ## Ввод команд
 
-![Команда list 12,15.](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/13.jpg){ #fig:014 width=70% }
+![Команда list 12,15.](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/13.jpg){ #fig:016 width=70% }
 
 ## Ввод команд
 
-![Команда list calculate.c:20,29.](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/14.jpg){ #fig:015 width=70% }
+![Команда list calculate.c:20,29.](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/14.jpg){ #fig:017 width=70% }
 
 ## Ввод команд
 
-![Команды break 21, info breakpoints, backtrace.](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/16.jpg){ #fig:016 width=70% }
+![Команды break 21, info breakpoints, backtrace.](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/16.jpg){ #fig:018 width=70% }
 
 ## Ввод команд
 
-![Команда print Numeral, display Numeral, info breakpoints и delete 1.](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/17.jpg){ #fig:017 width=70% }
+![Команда print Numeral, display Numeral, info breakpoints и delete 1.](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/labs/lab13/report/image/17.jpg){ #fig:019 width=70% }
 
 ## Вывод
 
