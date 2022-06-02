@@ -126,6 +126,7 @@ header-includes:
 ![Пост.](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/project-personal/stage6/report/image/Снимок экрана от 2022-06-02 16-28-19.png){ #fig:020 width=70% }
 
 ![Пост.](/afs/.dk.sci.pfu.edu.ru/home/y/v/yvegorova/work/study/2021-2022/Операционные системы/os-intro/project-personal/stage6/report/image/Снимок экрана от 2022-06-02 16-28-25.png){ #fig:021 width=70% }
+
 # Вывод
 
 В ходе выполнения 6 этапа проекта я сделала поддержку английского и русского языков, разместила элементы сайта и контент на обоих языках, сделала пост по прошедшей неделе и добавила пост на тему по выбору (на двух языках).
